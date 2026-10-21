@@ -114,12 +114,5 @@ The findings help connect the platform’s design with the practical challenges 
 - **Project Guide:** Prof. Vikram Pandey
 - **Academic Year:** 2026–2027
 
-## 🙏 Acknowledgement and Credits
-
-This project was developed with reference to the open-source project [CampusLostFound](https://github.com/0bit-0/CampusLostFound). The reference project informed the approach to a digital lost-and-found platform, while TraceBack focuses on the context of public gardens and parks.
-
-Please refer to the original repository’s licence and provide appropriate attribution for any reused code or assets.
-
----
 
 🌿 **TraceBack — Helping Lost Belongings Find Their Way Back.** 🔎
